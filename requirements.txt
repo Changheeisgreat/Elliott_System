@@ -1,0 +1,5 @@
+dash == 2.7.1
+dash_daq
+pandas
+plotly
+numpy
