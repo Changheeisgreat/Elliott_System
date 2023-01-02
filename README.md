@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elliott_System 
 ## Elliott wave fitting project
 ### To execute the program 
@@ -8,3 +9,7 @@
   ```
  <br> 
   
+=======
+# Elliott_System
+## Elliott wave with python code. 
+>>>>>>> 5a87d5d188affa0e7677c015f00a1e8cdc6ae0e9
